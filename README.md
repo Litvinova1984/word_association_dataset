@@ -5,5 +5,5 @@ RuPersWordAssociation dataset  is, to the best of our knowledge, the largest exi
 A detailed description of the dataset and the results of linguistic annotation and present the outcomes of the experiments which revealed
 individual preferences for certain types of associations are presented in the manuscript "RuPersWordAssociation: a new dataset to study
 individual association behavior' (Litvinova et al. 2024) accepted for presentation at INTERNET AND MODERN SOCIETY (IMS-2024) conference (https://ims.itmo.ru/eng/). 
-Works on development and annotation of  RuPersWordAssociation were supported by the grant of Russian Science Foundation (no 21-78-10148) for Voronezh State Pedagogical University ().
+Works on development and annotation of  RuPersWordAssociation were supported by the grant of Russian Science Foundation (no 21-78-10148) for Voronezh State Pedagogical University.
 
